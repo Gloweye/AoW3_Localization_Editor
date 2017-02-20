@@ -1,0 +1,1 @@
+# AoW3_Localization_Editor
